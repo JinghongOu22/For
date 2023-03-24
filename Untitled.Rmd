@@ -1,0 +1,120 @@
+---
+title: "Landsat Satellite"
+subtitle: ""
+author: "JInghong Ou"
+institute: ""
+date: "2023/01/24"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+class: inverse, center, middle
+
+# Summary
+
+---
+
+**Background**:
+- Jointly managed by USGS and NASA since 1972
+
+- Continuously capturing high-resolution multispectral images of Earth's surface
+
+- 8 successful satellites, with Landsat 9 as the latest addition
+
+- Freely accessible data for researchers, governments, and industries worldwide
+
+**Principle**:
+- Operates on the principle of remote sensing
+
+- Equipped with advanced sensors to detect and record electromagnetic radiation
+
+- Follows a sun-synchronous, near-polar orbit for consistent coverage
+
+- Allows for detailed analysis of land features, vegetation, water resources, and urban development
+
+---
+
+**Purpose**:
+- Provides valuable data for land-use planning, natural resource management, environmental monitoring, disaster assessment, and climate change research
+
+- Captures images in multiple spectral bands for detailed analysis of land cover, vegetation, water resources, and urban development
+
+**Components**:
+- Multispectral sensors: Landsat 8 and 9 equipped with OLI and TIRS instruments
+
+- Orbit: Follows a sun-synchronous, near-polar orbit at an altitude of 705 km (438 miles)
+
+- Swath width: Has a swath width of 185 km (115 miles) for near-global coverage
+
+- Image resolution: Provides high-resolution images with a spatial resolution of 30 meters (98 feet) for most OLI bands and 100 meters (328 feet) for TIRS thermal bands
+
+- Data transmission and archiving: Data collected by Landsat satellites are transmitted to ground stations, processed, archived, and made freely available to users worldwide
+
+---
+
+class: inverse, center, middle
+
+# Application
+
+---
+
+**Monitoring Deforestation in the Amazon Rainforest**:
+
+- Landsat imagery crucial in monitoring deforestation in Amazon rainforest
+
+- Multispectral data used to track changes in forest cover and develop conservation strategies
+
+- One study analyzed forest loss in Brazilian Amazon between 2000 and 2014 using Landsat images
+
+- Findings revealed decline in deforestation rates but ongoing threat to forest ecosystem
+
+**Agricultural and Crop Monitoring**:
+
+- Landsat data widely used to monitor and assess agricultural practices and crop health
+
+- Multispectral imagery provides insights into crop growth stages, water and nutrient stress, and overall agricultural productivity
+
+- One study used Landsat 8 images to estimate crop yield for maize and wheat in the United States
+Found combination of Landsat imagery and crop growth models accurately predicted crop yield, benefiting farmers and agricultural planners
+
+---
+
+class: inverse, center, middle
+
+# Reflection
+
+---
+
+**Longevity and Impact**:
+
+- Launched in 1972 and provided over five decades of continuous and high-quality data
+- One of the longest-running Earth observation missions
+- Highlights the importance of monitoring our planet and understanding the consequences of human activities on the environment
+
+**Transformative in Numerous Fields**:
+
+- Landsat data used in agriculture, forestry, urban planning, and natural resource management
+- Free and open access to Landsat data has democratized Earth observation
+- Enabled researchers, policymakers, and businesses to make informed decisions based on up-to-date and accurate information
+- Spurred countless innovations and applications with tangible impacts on environmental conservation, disaster management, and the global economy
+
+---
+
+**Invaluable in Addressing Environmental Challenges**:
+
+- As we face unprecedented environmental challenges, Landsat data and tools will continue to be invaluable
+- Multispectral imagery and high-resolution data allow us to monitor and assess the Earth's surface with precision and detail
+- Identify patterns and trends that may be crucial in developing effective mitigation and adaptation strategies
+- Continuous and repetitive nature of Landsat data enables observation of long-term changes, providing a solid foundation for evaluating environmental policies and management practices
+
+
+**Room for Improvement and Innovation**:
+
+- While Landsat has been successful, there is always room for improvement and innovation
+- Integration of newer technologies, such as higher-resolution sensors or real-time data processing, could further enhance the program's capabilities
+Combination of Landsat data with other sources, like high-resolution commercial satellite imagery or data from unmanned aerial vehicles (UAVs), could provide even more comprehensive and detailed information about the Earth's surface
